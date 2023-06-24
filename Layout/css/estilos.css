@@ -1,0 +1,23 @@
+.avatar {
+    border-radius: 50%;
+    height: 17px;
+    object-position: top;
+    width: 17px;
+}
+
+.letra{
+    font-family: Nunito;
+}
+
+.bc1{
+    background-color: #17a2b8;
+}
+.bc2{
+    background-color: #00394f;
+}
+.bc3{
+    background-color: #f8f9fa;
+}
+.pt{
+    padding-top: 6rem;
+}
